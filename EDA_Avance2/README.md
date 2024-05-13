@@ -55,6 +55,9 @@ La justificación de la aplicación de estos pasos específicos radica en su cap
 
 ![PCA](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/PCA.png)
 
+-Los componentes principales con mayor varianza explicada son los más importantes para representar la información original del conjunto de datos.
+
+-Se considera que los componentes que explican al menos el 80% de la varianza total son suficientes para capturar la mayor parte de la información relevante.
 
 ## C) Incluir conclusiones de la fase de "Preparación de los datos" en el contexto de la metodología CRISP-ML.
 

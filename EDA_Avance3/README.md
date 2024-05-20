@@ -11,7 +11,7 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 ### ¿Cuál es la métrica adecuada para este problema de negocio? 
 
 
-Utilizamos el Decision Tree, Random Forest, SVM, KNN
+Utilizamos el Decision Tree, Gradient Boosting, SVR, KNN
 
 Mostando los siguientes resultados:
 

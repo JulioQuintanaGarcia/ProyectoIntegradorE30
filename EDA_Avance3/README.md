@@ -6,7 +6,9 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ### ¿Qué algoritmo se puede utilizar como baseline para predecir las variables objetivo? 
 
-Comenamos con Decision Tree como baseline debido a su simplicidad y rapidez en el entrenamiento, lo que permite establecer una referencia inicial para comparar otros modelos más complejos. Posterior a eso estuvimos realizando varias evaluaciones de modelos, como se comparte en la parte de abajo.
+Comenzamos con Decision Tree como baseline debido a su simplicidad y rapidez en el entrenamiento, lo que nos ayuda a establecer una referencia inicial para comparar otros modelos de mas complejidad. 
+
+Después de tener ese baseline estuvimos realizando varias evaluaciones de modelos, como se comparte en el Análisis de abajo.
 
 ### ¿El modelo está sub/sobreajustando los datos de entrenamiento?
 

@@ -6,14 +6,21 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ### ¿Qué algoritmo se puede utilizar como baseline para predecir las variables objetivo? 
 
+Comenamos con Decision Tree como baseline debido a su simplicidad y rapidez en el entrenamiento, lo que permite establecer una referencia inicial para comparar otros modelos más complejos. Posterior a eso estuvimos realizando varias evaluaciones de modelos, como se comparte en la parte de abajo.
+
 ### ¿El modelo está sub/sobreajustando los datos de entrenamiento?
+
+En los resultados se observa que algunos modelos muestran signos de sobreajuste como Decision Tree y KNN, mientras que otros presentan un rendimiento pobre tanto en el entrenamiento como en la prueba del modelo SVR. 
+
+El análisis detallado de las métricas ayuda a identificar estos problemas de ajuste.
 
 ### ¿Cuál es la métrica adecuada para este problema de negocio? 
 
+Dado que se trata de un problema de regresión, se han utilizado múltiples métricas: Mean Squared Error (MSE), Mean Absolute Error (MAE) y R² Score. 
 
-Utilizamos el Decision Tree, Gradient Boosting, SVR, KNN
+Estas métricas permiten evaluar la precisión y la capacidad de generalización del modelo.
 
-Mostando los siguientes resultados:
+# Análisis:
 
 ## Decision Tree
 

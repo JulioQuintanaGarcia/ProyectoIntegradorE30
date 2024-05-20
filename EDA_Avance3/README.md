@@ -127,8 +127,8 @@ La red neuronal muestra un rendimiento aceptable, pero podría beneficiarse de u
 
 Compartirmos algunas imágenes del comportamiento de las métricas en cada no de los modelos de ML aplicados
 
-  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/MSE.png)
+  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/MSE.jpeg)
 
-  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/MAE.png)
+  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/MAE.jpeg)
 
-  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/R2.png)
+  ![Patrones de Ausencia](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/R2.jpeg)

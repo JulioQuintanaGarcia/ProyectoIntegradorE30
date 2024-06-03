@@ -10,10 +10,9 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ### -Para las estrategias de stacking y/o blending, se deberán emplear los modelos individuales de mejor rendimiento obtenidos en la fase anterior.
 
-![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/Stacking.png)
+![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Stacking.PNG)
 
-![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.png)
-
+![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.PNG)
 
 ## B-Una vez que se han generado los modelos de ensamble, sintetizar los resultados en una tabla comparativa en la que se incluyan los modelos individuales de la fase previa. 
 
@@ -24,8 +23,6 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 ### -Se elige el modelo final alineado con los objetivos y necesidades del negocio.
 
 Basado en las métricas de error (MSE y MAE) y el coeficiente de determinación (R²):
-
-![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos.PNG)
 
 *Stacking* parece ser el mejor modelo para realizar predicciones, ya que tiene el MSE más bajo en el conjunto de prueba y un R² positivo, aunque bajo.
 
@@ -51,7 +48,7 @@ La mayoría de los residuos están extremadamente concentrados alrededor de cero
 
 La gráfica ajustada confirma que el modelo de Stacking está realizando predicciones con una alta precisión, ya que la mayoría de los residuos están concentrados cerca de cero y la distribución es simétrica. Esto sugiere que el modelo no está sesgado y está prediciendo los valores de manera bastante precisa.
 
-![DISTRIBUCIÓN DE RESIDUOS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/residuos.png)
+![RESIDUOS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos.PNG)
 
 ## **Gráfico de Residuos:**
 
@@ -59,7 +56,7 @@ La mayoría de los residuos se agrupan cerca del valor predicho de cero, lo cual
 
 Hay algunos puntos de residuos que se alejan significativamente de cero. Estos puntos pueden ser considerados como outliers o valores atípicos donde el modelo no predijo bien.
 
-![GRAFICO DE RESIDUOS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/residuos2.png)
+![GRAFICO DE RESIDUOSRESIDUOS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos2.PNG)
 
 
 ## **Importancia de Características:**

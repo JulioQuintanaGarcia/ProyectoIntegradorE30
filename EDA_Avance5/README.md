@@ -10,8 +10,10 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ### -Para las estrategias de stacking y/o blending, se deberán emplear los modelos individuales de mejor rendimiento obtenidos en la fase anterior.
 
+### Resultados de: STACKING
 ![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Stacking.PNG)
 
+### Resultados de: BLENDING
 ![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.PNG)
 
 ## B-Una vez que se han generado los modelos de ensamble, sintetizar los resultados en una tabla comparativa en la que se incluyan los modelos individuales de la fase previa. 
@@ -24,21 +26,21 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 Basado en las métricas de error (MSE y MAE) y el coeficiente de determinación (R²):
 
-*Stacking* parece ser el mejor modelo para realizar predicciones, ya que tiene el MSE más bajo en el conjunto de prueba y un R² positivo, aunque bajo.
+**Stacking** parece ser el mejor modelo para realizar predicciones, ya que tiene el MSE más bajo en el conjunto de prueba y un R² positivo, aunque bajo.
 
-*Blending* tiene un MAE ligeramente mejor, pero sus valores negativos de R² indican que podría no ser confiable en capturar la variabilidad de los datos.
+**Blending** tiene un MAE ligeramente mejor, pero sus valores negativos de R² indican que podría no ser confiable en capturar la variabilidad de los datos.
 
 Utilizar el modelo Stacking para las predicciones, ya que proporciona el equilibrio más favorable entre MSE, MAE y un R² positivo.
 
-Se comparte tabla comparativa:
+### Se comparte tabla comparativa:
 
-![TABLA COMPARATIVA](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/tabla.png)
+![TABLA COMPARATIVA](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/tabla.PNG)
 
 En la tabla comparativa podemos observar el tiempo que se tardaron en ejecutar los modelos principales, como dato adicional, queremos comentar que se estuvieron trabajando con distintos hiperparámetros a partir del GridSearch, con la finalidad de encontrar los mejores hiperparámetros para tener un mejor rendimiento del modelo, pero al final, solo utilizamos parámetros "pequeños o controlados", ya que en ocasiones los modelos en ejecución se tardaban mas de 30 minutos corriendo. 
 
 Se adjuntan algunas imágenes con el tiempo de ejecución con GridSearch, con tiempos de ejecución largos.
 
-![TIEMPOS DE EJECUCIÓN](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/grids.png)
+![TIEMPOS DE EJECUCIÓN](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/grids.PNG)
 
 ## C- Del modelo elegido, generar algunos gráficos significativos con su interpretación. La siguiente lista proporciona ejemplos, pero no es exhaustiva:
 

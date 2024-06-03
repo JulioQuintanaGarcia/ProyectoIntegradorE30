@@ -12,8 +12,7 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/Stacking.png)
 
-![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/Blending.png)
-
+![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/27e122072dd4ae22b7aa2d3c2b0609009426b655/images/Blending.png)
 
 ## B-Una vez que se han generado los modelos de ensamble, sintetizar los resultados en una tabla comparativa en la que se incluyan los modelos individuales de la fase previa. 
 

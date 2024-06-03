@@ -13,6 +13,10 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 ### Resultados de: STACKING
 ![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Stacking2.PNG)
 
+
+https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/commit/b593278c9a9f9584ca6b4c75cbee3d350edecb6f#commitcomment-142651451
+
+
 ### Resultados de: BLENDING
 ![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.PNG)
 

@@ -85,3 +85,10 @@ Las metas de producción más altas podrían estar correlacionadas con un mayor 
 
 ![IMPORTANCIA DE CARACTERISTICAS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/caracteristicas.PNG)
 
+
+## Contribuciones y Contacto
+Si tienes alguna pregunta o sugerencia sobre el análisis realizado o el código asociado, no dudes en contactar al equipo a través de [Julio Quintana](A01793661@tec.mx) | [Pablo Colunga](A01793671@tec.mx) | [Marco Antonio Lopez](A01113135@tec.mx) .
+
+¡Gracias por tu interés en nuestro análisis exploratorio de datos! 
+
+

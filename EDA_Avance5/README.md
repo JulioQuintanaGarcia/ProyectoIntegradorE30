@@ -83,6 +83,5 @@ La meta de producción ("Production_Goal") también es una variable importante, 
 
 Las metas de producción más altas podrían estar correlacionadas con un mayor esfuerzo operativo, lo que podría llevar a una mayor probabilidad de fallos o interrupciones debido al estrés en los sistemas y equipos. Alternativamente, metas muy bajas podrían indicar periodos de mantenimiento o baja actividad, lo que también afecta la duración total.
 
-![IMPORTANCIA DE CARACTERISTICAS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/caracteristicas.png)
-
+![IMPORTANCIA DE CARACTERISTICAS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/caracteristicas.PNG)
 

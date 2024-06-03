@@ -11,7 +11,7 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 ### -Para las estrategias de stacking y/o blending, se deberán emplear los modelos individuales de mejor rendimiento obtenidos en la fase anterior.
 
 ### Resultados de: STACKING
-![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Stacking.PNG)
+![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Stacking2.PNG)
 
 ### Resultados de: BLENDING
 ![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.PNG)

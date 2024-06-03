@@ -25,7 +25,7 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 Basado en las métricas de error (MSE y MAE) y el coeficiente de determinación (R²):
 
-https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos.PNG
+![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos.PNG)
 
 *Stacking* parece ser el mejor modelo para realizar predicciones, ya que tiene el MSE más bajo en el conjunto de prueba y un R² positivo, aunque bajo.
 

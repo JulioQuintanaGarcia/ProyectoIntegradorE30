@@ -60,7 +60,7 @@ Hay algunos puntos de residuos que se alejan significativamente de cero. Estos p
 ![GRAFICO DE RESIDUOS](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/residuos2.png)
 
 
-## **Importancia de Características:
+## **Importancia de Características:**
 
 Podemos observar acorde a la imagen, el orden de impoartancia de nuestras variables de entrada DownStart_dia, DownStart_mes, PRoduction_Goal, etc. Se comparte una interpretación de acuerdo a los resultados obtenidos.
 

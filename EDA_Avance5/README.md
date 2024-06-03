@@ -12,7 +12,8 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 
 ![STACKING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/Stacking.png)
 
-![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/27e122072dd4ae22b7aa2d3c2b0609009426b655/images/Blending.png)
+![BLENDING](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/Blending.png)
+
 
 ## B-Una vez que se han generado los modelos de ensamble, sintetizar los resultados en una tabla comparativa en la que se incluyan los modelos individuales de la fase previa. 
 
@@ -23,6 +24,8 @@ Este repositorio contiene el código y la documentación asociada con el Anális
 ### -Se elige el modelo final alineado con los objetivos y necesidades del negocio.
 
 Basado en las métricas de error (MSE y MAE) y el coeficiente de determinación (R²):
+
+https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/0d6bf8576fce30263b6098820fdb83d53e6cd606/images/residuos.PNG
 
 *Stacking* parece ser el mejor modelo para realizar predicciones, ya que tiene el MSE más bajo en el conjunto de prueba y un R² positivo, aunque bajo.
 
